@@ -7,3 +7,5 @@ test conflict
 asdzxdasdafads
 
 pushing one commit here
+
+doing other shit in development
