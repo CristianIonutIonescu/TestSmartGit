@@ -8,5 +8,3 @@ test test test
 another shit here
 test conflict
 asdzxdasdafads
-implementing stuff here
-
